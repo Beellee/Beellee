@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything i can learn :) 
 - 🌱 I’m currently learning Frontend & Data Science
 - 💞️ I’m looking to collaborate on Frontend projects 
-- 📫 How to reach me elpollitobelle@gmail.com 
+- 📫 How to reach me paulaalvarezc02@gmail.com
 
 
 <!---
