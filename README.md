@@ -1,5 +1,5 @@
 ## 💫 About Me:
-👋 Hi, I’m @Beellee (Pauli for friends)<br>🌱 I work as a Data Scientist, but in my free time, I also enjoy learning Frontend and Backend development<br>📫 How to reach me paulaalvarezc02@gmail.com
+👋 Hi, I’m @Beellee (Pauli for friends)<br>🌱 I work as a Data Scientist, but in my free time, I also enjoy learning Frontend and Backend development<br>📫 How to reach me paula.alvarez.datascientist@gmail.com
 
 
 ## 💻 Tech Stack:
